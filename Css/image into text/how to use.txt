@@ -1,1 +1,0 @@
-from the beginning you need a picture. When you have created a picture in your source folder, you need to paste its url as indicated in the code and that's it. Then everything is up to your imagination.

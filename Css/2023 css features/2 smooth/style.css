@@ -1,0 +1,14 @@
+*{
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+}
+/* smooth
+нужен для плавной прокрутки страницы для нужного элемента. */
+
+html {
+   scroll-behavior: smooth;
+}
+.bottom , .top{
+    height: 100vh;
+}
